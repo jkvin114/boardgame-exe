@@ -1,0 +1,1545 @@
+----------------------------------------------------- ------------------------
+1st place: player1(Yangi), 2nd place:player3(Jean),3rd place:player2(Silver),
+player1(Yangi)-----------------------------------------------
+kill/death/assist:1/2/0 
+Damage dealt: 87 
+Damage received :237 
+Heal amount:45  
+money earned:7 gold 
+money spent:0 gold
+money lost:0 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:1/1/0 
+Damage dealt: 78 
+Damage received :93 
+Heal amount:7  
+money earned:8 gold 
+money spent:0 gold
+money lost:0 gold
+player3(Jean)-----------------------------------------------
+kill/death/assist:2/2/2 
+Damage dealt: 116 
+Damage received :146 
+Heal amount:4  
+money earned:24 gold 
+money spent:0 gold
+money lost:0 gold
+
+----------------------------------------------------- ------------------------
+1st place: player2(Silver), 2nd place:player3(Jean),3rd place:player1(Yangi),
+player1(Yangi)-----------------------------------------------
+kill/death/assist:0/2/1 
+Damage dealt: 205 
+Damage received :296 
+Heal amount:140  
+money earned:62 gold 
+money spent:48 gold
+money lost:6 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:2/2/0 
+Damage dealt: 97 
+Damage received :240 
+Heal amount:36  
+money earned:79 gold 
+money spent:59 gold
+money lost:6 gold
+player3(Jean)-----------------------------------------------
+kill/death/assist:1/2/2 
+Damage dealt: 187 
+Damage received :121 
+Heal amount:7  
+money earned:69 gold 
+money spent:48 gold
+money lost:18 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Yangi      (1 ): 13    |0     |0     |0    |2    |0    |1      |0            
+Silver     (2 ): 0     |0     |16    |11   |0    |0    |1      |0            
+Jean       (3 ): 14    |0     |0     |0    |2    |0    |1      |0            
+----------------------------------------------------- ------------------------
+1st place: player1(Bird), 2nd place:player2(Gorae),3rd place:player3(Timo),
+player1(Bird)-----------------------------------------------
+kill/death/assist:1/2/0 
+Damage dealt: 145 
+Damage received :226 
+Heal amount:103  
+money earned:81 gold 
+money spent:27 gold
+money lost:44 gold
+player2(Gorae)-----------------------------------------------
+kill/death/assist:0/3/0 
+Damage dealt: 37 
+Damage received :176 
+Heal amount:15  
+money earned:140 gold 
+money spent:11 gold
+money lost:132 gold
+player3(Timo)-----------------------------------------------
+kill/death/assist:0/1/0 
+Damage dealt: 173 
+Damage received :50 
+Heal amount:54  
+money earned:102 gold 
+money spent:87 gold
+money lost:19 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Bird       (1 ): 0     |7     |1     |0    |0    |0    |2      |0            
+Gorae      (2 ): 5     |0     |0     |0    |0    |0    |0      |0            
+Timo       (3 ): 0     |30    |5     |7    |0    |0    |1      |0            
+----------------------------------------------------- ------------------------
+1st place: player1(Yangi), 2nd place:player3(Jean),3rd place:player2(Creed)
+player1(Yangi)-----------------------------------------------
+kill/death/assist:3/7/2 
+Damage dealt: 298 
+Damage received :729 
+Heal amount:223  
+money earned:87 gold 
+money spent:36 gold
+money lost:33 gold
+player2(Creed)-----------------------------------------------
+kill/death/assist:3/10/1 
+Damage dealt: 276 
+Damage received :681 
+Heal amount:80  
+money earned:174 gold 
+money spent:58 gold
+money lost:110 gold
+player3(Jean)-----------------------------------------------
+kill/death/assist:10/6/7 
+Damage dealt: 746 
+Damage received :389 
+Heal amount:105  
+money earned:204 gold 
+money spent:149 gold
+money lost:54 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Yangi      (1 ): 8     |0     |3     |0    |0    |0    |3      |0            
+Creed      (2 ): 10    |0     |3     |0    |2    |0    |1      |2            
+Jean       (3 ): 33    |0     |8     |11   |4    |0    |4      |3            
+----------------------------------------------------- ------------------------
+1st place: player1(Creed), 2nd place:player2(Creed),3rd place:player3(Timo),
+player1(Creed)-----------------------------------------------
+kill/death/assist:1/1/0 
+Damage dealt: 415 
+Damage received :925 
+Heal amount:240  
+money earned:750 gold 
+money spent:560 gold
+money lost:119 gold
+player2(Creed)-----------------------------------------------
+kill/death/assist:3/3/0 
+Damage dealt: 910 
+Damage received :2205 
+Heal amount:560  
+money earned:2111 gold 
+money spent:240 gold
+money lost:2169 gold
+player3(Timo)-----------------------------------------------
+kill/death/assist:2/5/3 
+Damage dealt: 880 
+Damage received :765 
+Heal amount:20  
+money earned:1380 gold 
+money spent:232 gold
+money lost:209 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Creed      (1 ): 190   |0     |20    |0    |20   |0    |10     |0            
+Creed      (2 ): 110   |0     |0     |0    |0    |0    |10     |0            
+Timo       (3 ): 0     |110   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: player3(Jean), 2nd place:player2(Silver),3rd place:player1(Silver),
+player1(Silver)-----------------------------------------------
+kill/death/assist:0/12/0 
+Damage dealt: 100 
+Damage received :5452 
+Heal amount:308  
+money earned:1870 gold 
+money spent:130 gold
+money lost:1113 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:1/11/0 
+Damage dealt: -1215 
+Damage received :8161 
+Heal amount:1408  
+money earned:1150 gold 
+money spent:420 gold
+money lost:327 gold
+player3(Jean)-----------------------------------------------
+kill/death/assist:15/1/8 
+Damage dealt: 9490 
+Damage received :4466 
+Heal amount:5000  
+money earned:3810 gold 
+money spent:3300 gold
+money lost:60 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Silver     (1 ): 0     |20    |-190  |-220 |0    |0    |0      |0            
+Silver     (2 ): 0     |0     |-1260 |-1350|0    |0    |20     |0            
+Jean       (3 ): 450   |0     |100   |180  |80   |0    |80     |30           
+----------------------------------------------------- ------------------------
+1st place: player2(Silver), 2nd place:player1(Silver),3rd place:player3(Silver),
+player1(Silver)-----------------------------------------------
+kill/death/assist:0/2/0 
+Damage dealt: -440 
+Damage received :2022 
+Heal amount:230  
+money earned:872 gold 
+money spent:670 gold
+money lost:178 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:1/1/0 
+Damage dealt: -290 
+Damage received :1214 
+Heal amount:1962  
+money earned:880 gold 
+money spent:720 gold
+money lost:149 gold
+player3(Silver)-----------------------------------------------
+kill/death/assist:0/4/0 
+Damage dealt: -270 
+Damage received :1794 
+Heal amount:250  
+money earned:1360 gold 
+money spent:1120 gold
+money lost:230 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Silver     (1 ): 0     |0     |-3430 |-3270|0    |0    |10     |0            
+Silver     (2 ): 0     |50    |-860  |-850 |0    |0    |30     |0            
+Silver     (3 ): 0     |410   |-1080 |-1080|0    |0    |20     |0            
+----------------------------------------------------- ------------------------
+1st place: player3(Silver), 2nd place:player1(Silver),3rd place:player2(Silver),
+player1(Silver)-----------------------------------------------
+kill/death/assist:0/0/0 
+Damage dealt: 855 
+Damage received :1700 
+Heal amount:1733  
+money earned:891 gold 
+money spent:680 gold
+money lost:178 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:0/1/0 
+Damage dealt: 520 
+Damage received :1077 
+Heal amount:1362  
+money earned:1070 gold 
+money spent:400 gold
+money lost:663 gold
+player3(Silver)-----------------------------------------------
+kill/death/assist:0/1/0 
+Damage dealt: 570 
+Damage received :1452 
+Heal amount:120  
+money earned:730 gold 
+money spent:0 gold
+money lost:690 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Silver     (1 ): 0     |200   |0     |0    |0    |0    |40     |10           
+Silver     (2 ): 0     |100   |120   |120  |0    |0    |50     |0            
+Silver     (3 ): 0     |100   |420   |420  |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+    
+----------------------------------------------------- ------------------------
+1st place: player1(Bird), 2nd place:player2(Yangi),3rd place:player3(Gorae),
+player1(Bird)-----------------------------------------------
+kill/death/assist:3/7/1 
+Damage dealt: 4950 
+Damage received :3985 
+Heal amount:1960  
+money earned:2720 gold 
+money spent:2280 gold
+money lost:385 gold
+player2(Yangi)-----------------------------------------------
+kill/death/assist:6/6/1 
+Damage dealt: 3436 
+Damage received :7167 
+Heal amount:5405  
+money earned:2340 gold 
+money spent:1700 gold
+money lost:564 gold
+player3(Gorae)-----------------------------------------------
+kill/death/assist:2/7/7 
+Damage dealt: 1980 
+Damage received :4080 
+Heal amount:460  
+money earned:2830 gold 
+money spent:1600 gold
+money lost:1084 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Bird       (1 ): 170   |410   |0     |0    |20   |0    |60     |0            
+Yangi      (2 ): 200   |0     |50    |70   |20   |0    |60     |0            
+Gorae      (3 ): 350   |210   |0     |0    |80   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: player2(Silver), 2nd place:player1(Creed),3rd place:player3(Timo),
+player1(Creed)-----------------------------------------------
+kill/death/assist:3/3/1 
+Damage dealt: 4115 
+Damage received :2670 
+Heal amount:690  
+money earned:1620 gold 
+money spent:1300 gold
+money lost:89 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:2/2/2 
+Damage dealt: 960 
+Damage received :2166 
+Heal amount:70  
+money earned:1060 gold 
+money spent:430 gold
+money lost:487 gold
+player3(Timo)-----------------------------------------------
+kill/death/assist:0/6/1 
+Damage dealt: 580 
+Damage received :3666 
+Heal amount:0  
+money earned:670 gold 
+money spent:200 gold
+money lost:433 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Creed      (1 ): 310   |0     |0     |100  |40   |0    |10     |30           
+Silver     (2 ): 0     |0     |270   |230  |0    |0    |0      |0            
+Timo       (3 ): 0     |70    |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: player3(Gorae), 2nd place:player1(Jean),3rd place:player2(Timo),
+player1(Jean)-----------------------------------------------
+kill/death/assist:5/2/0 
+Damage dealt: 1550 
+Damage received :1245 
+Heal amount:20  
+money earned:1872 gold 
+money spent:1140 gold
+money lost:660 gold
+player2(Timo)-----------------------------------------------
+kill/death/assist:0/5/1 
+Damage dealt: 1250 
+Damage received :2230 
+Heal amount:40  
+money earned:1740 gold 
+money spent:1670 gold
+money lost:60 gold
+player3(Gorae)-----------------------------------------------
+kill/death/assist:1/4/4 
+Damage dealt: 405 
+Damage received :2640 
+Heal amount:881  
+money earned:1610 gold 
+money spent:1512 gold
+money lost:89 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Jean       (1 ): 370   |0     |50    |70   |40   |0    |0      |0            
+Timo       (2 ): 0     |600   |50    |70   |0    |0    |0      |0            
+Gorae      (3 ): 0     |190   |130   |70   |0    |0    |30     |0            
+----------------------------------------------------- ------------------------
+1st place: player3(Jean), 2nd place:player1(Gorae),3rd place:player2(Silver),
+player1(Gorae)-----------------------------------------------
+kill/death/assist:1/4/0 
+Damage dealt: 330 
+Damage received :1090 
+Heal amount:90  
+money earned:1390 gold 
+money spent:160 gold
+money lost:207 gold
+player2(Silver)-----------------------------------------------
+kill/death/assist:1/1/1 
+Damage dealt: 740 
+Damage received :743 
+Heal amount:310  
+money earned:1210 gold 
+money spent:850 gold
+money lost:275 gold
+player3(Jean)-----------------------------------------------
+kill/death/assist:0/2/0 
+Damage dealt: 1680 
+Damage received :1426 
+Heal amount:260  
+money earned:910 gold 
+money spent:910 gold
+money lost:0 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Gorae      (1 ): 0     |60    |0     |0    |0    |0    |0      |0            
+Silver     (2 ): 0     |0     |410   |470  |0    |0    |30     |0            
+Jean       (3 ): 260   |0     |0     |0    |40   |0    |20     |10           
+----------------------------------------------------- ------------------------
+1st place: player1(Timo), 2nd place:Computer2(Yangi_bot),3rd place:Computer3(Silver bot),
+player1(Timo)-----------------------------------------------
+kill/death/assist:4/0/0 
+Damage dealt: 1865 
+Damage received :615 
+Heal amount:220  
+money earned:1030 gold 
+money spent:600 gold
+money lost:260 gold
+Computer2(Yangi_bot)-----------------------------------------------
+kill/death/assist:0/4/0 
+Damage dealt: 40 
+Damage received :1486 
+Heal amount:120  
+money earned:1180 gold 
+money spent:0 gold
+money lost:89 gold
+Computer3(Silver bot)-----------------------------------------------
+kill/death/assist:0/4/0 
+Damage dealt: 30 
+Damage received :2091 
+Heal amount:70  
+money earned:1620 gold 
+money spent:0 gold
+money lost:50 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Timo       (1 ): 0     |310   |0     |0    |0    |0    |10     |0            
+Yangi_bot  (2 ): 0     |0     |0     |0    |0    |0    |0      |0            
+Silver bot (3 ): 0     |0     |120   |120  |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어3(Jean), 2nd place:플레이어2(Jelllice),3rd place:플레이어1(Movingshin),
+플레이어1(Movingshin)-----------------------------------------------
+kill/death/assist:3/13/4 
+Damage dealt: 3045 
+Damage received :8053 
+Heal amount:529  
+money earned:2510 gold 
+money spent:1340 gold
+money lost:1048 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:4/12/5 
+Damage dealt: 3695 
+Damage received :10697 
+Heal amount:290  
+money earned:2320 gold 
+money spent:1850 gold
+money lost:295 gold
+플레이어3(Jean)-----------------------------------------------
+kill/death/assist:19/4/10 
+Damage dealt: 14030 
+Damage received :3619 
+Heal amount:430  
+money earned:3713 gold 
+money spent:2730 gold
+money lost:296 gold
+name|      turn|AD   |AP   |PD   |MD   |PP   |MP     |regen |absorb 
+Movingshin (1 ): 460   |0     |0     |0    |80   |0    |0      |0            
+Jelllice   (2 ): 0     |660   |120   |40   |0    |0    |10     |0            
+Jean       (3 ): 650   |0     |50    |170  |120  |0    |20     |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어1(Movingshin), 2nd place:플레이어3(Bird),3rd place:플레이어2(Jelllice),
+플레이어1(Movingshin)-----------------------------------------------
+kill/death/assist:7/6/3 
+Damage dealt: 7130 
+Damage received :3399 
+Heal amount:985  
+money earned:2160 gold 
+money spent:1260 gold
+money lost:358 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:4/11/1 
+Damage dealt: 4140 
+Damage received :7540 
+Heal amount:90  
+money earned:2070 gold 
+money spent:1600 gold
+money lost:288 gold
+플레이어3(Bird)-----------------------------------------------
+kill/death/assist:6/5/9 
+Damage dealt: 5405 
+Damage received :5998 
+Heal amount:1400  
+money earned:2500 gold 
+money spent:1760 gold
+money lost:149 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Movingshin (1 ): 410   |0     |0     |0    |80   |0    |0      |0            
+Jelllice   (2 ): 0     |610   |0     |0    |0    |0    |0      |0            
+Bird       (3 ): 210   |190   |0     |100  |40   |0    |30     |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어3(Timo), 2nd place:플레이어2(Jelllice),3rd place:플레이어1(Movingshin),
+플레이어1(Movingshin)-----------------------------------------------
+kill/death/assist:1/4/2 
+Damage dealt: 190 
+Damage received :2095 
+Heal amount:74  
+money earned:1360 gold 
+money spent:80 gold
+money lost:929 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:6/4/1 
+Damage dealt: 2680 
+Damage received :2143 
+Heal amount:20  
+money earned:1580 gold 
+money spent:592 gold
+money lost:928 gold
+플레이어3(Timo)-----------------------------------------------
+kill/death/assist:4/4/5 
+Damage dealt: 1800 
+Damage received :3145 
+Heal amount:120  
+money earned:1800 gold 
+money spent:600 gold
+money lost:178 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Movingshin (1 ): 30    |0     |0     |0    |0    |0    |0      |0            
+Jelllice   (2 ): 0     |320   |0     |0    |0    |0    |0      |0            
+Timo       (3 ): 0     |310   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어2(Jelllice), 2nd place:플레이어3(Creed),3rd place:플레이어1(Movingshin),
+플레이어1(Movingshin)-----------------------------------------------
+kill/death/assist:2/6/3 
+Damage dealt: 2050 
+Damage received :5453 
+Heal amount:873  
+money earned:2557 gold 
+money spent:1870 gold
+money lost:403 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:1/6/2 
+Damage dealt: 2075 
+Damage received :3505 
+Heal amount:510  
+money earned:1300 gold 
+money spent:720 gold
+money lost:415 gold
+플레이어3(Creed)-----------------------------------------------
+kill/death/assist:9/5/5 
+Damage dealt: 5315 
+Damage received :3425 
+Heal amount:290  
+money earned:2260 gold 
+money spent:720 gold
+money lost:237 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Movingshin (1 ): 60    |600   |0     |0    |0    |0    |20     |0            
+Jelllice   (2 ): 0     |290   |0     |0    |0    |0    |20     |0            
+Creed      (3 ): 190   |0     |0     |0    |40   |0    |10     |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어2(Movingshin), 2nd place:플레이어1(Jelllice)
+플레이어1(Jelllice)-----------------------------------------------
+kill/death/assist:0/3/0 
+Damage dealt: 745 
+Damage received :2436 
+Heal amount:160  
+money earned:1641 gold 
+money spent:1540 gold
+money lost:88 gold
+플레이어2(Movingshin)-----------------------------------------------
+kill/death/assist:2/2/0 
+Damage dealt: 2050 
+Damage received :1624 
+Heal amount:467  
+money earned:1861 gold 
+money spent:1670 gold
+money lost:117 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Jelllice   (1 ): 0     |450   |50    |70   |0    |0    |10     |0            
+Movingshin (2 ): 500   |0     |0     |0    |100  |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어3(Movingshin), 2nd place:플레이어1(Gorae),3rd place:플레이어2(Jelllice),
+플레이어1(Gorae)-----------------------------------------------
+kill/death/assist:4/3/1 
+Damage dealt: 3777 
+Damage received :5808 
+Heal amount:3074  
+money earned:4040 gold 
+money spent:3790 gold
+money lost:0 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:3/7/2 
+Damage dealt: 6875 
+Damage received :3444 
+Heal amount:40  
+money earned:3673 gold 
+money spent:3360 gold
+money lost:266 gold
+플레이어3(Movingshin)-----------------------------------------------
+kill/death/assist:1/4/4 
+Damage dealt: 1515 
+Damage received :4368 
+Heal amount:245  
+money earned:2634 gold 
+money spent:2130 gold
+money lost:425 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Gorae      (1 ): 0     |960   |80    |110  |0    |0    |90     |0            
+Jelllice   (2 ): 0     |1540  |0     |0    |0    |0    |0      |0            
+Movingshin (3 ): 310   |280   |130   |70   |40   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어3(Yangi), 2nd place:플레이어2(Movingshin),3rd place:플레이어1(Jelllice),
+플레이어1(Jelllice)-----------------------------------------------
+kill/death/assist:3/12/0 
+Damage dealt: 4960 
+Damage received :9268 
+Heal amount:150  
+money earned:1762 gold 
+money spent:1120 gold
+money lost:508 gold
+플레이어2(Movingshin)-----------------------------------------------
+kill/death/assist:4/8/0 
+Damage dealt: 3740 
+Damage received :5656 
+Heal amount:634  
+money earned:2430 gold 
+money spent:1920 gold
+money lost:207 gold
+플레이어3(Yangi)-----------------------------------------------
+kill/death/assist:14/6/15 
+Damage dealt: 11466 
+Damage received :7845 
+Heal amount:3329  
+money earned:2740 gold 
+money spent:2320 gold
+money lost:119 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Jelllice   (1 ): 0     |580   |0     |0    |0    |0    |0      |0            
+Movingshin (2 ): 310   |0     |50    |70   |40   |0    |60     |0            
+Yangi      (3 ): 510   |50    |0     |80   |100  |0    |50     |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어3(Movingshin), 2nd place:플레이어1(Silver),3rd place:플레이어2(Jelllice),
+플레이어1(Silver)-----------------------------------------------
+kill/death/assist:8/1/3 
+Damage dealt: 6540 
+Damage received :1716 
+Heal amount:710  
+money earned:1900 gold 
+money spent:1370 gold
+money lost:207 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:1/6/2 
+Damage dealt: 3870 
+Damage received :4913 
+Heal amount:420  
+money earned:1960 gold 
+money spent:990 gold
+money lost:863 gold
+플레이어3(Movingshin)-----------------------------------------------
+kill/death/assist:2/6/4 
+Damage dealt: 3465 
+Damage received :5173 
+Heal amount:474  
+money earned:1690 gold 
+money spent:680 gold
+money lost:394 gold
+name|      turn|AD     |AP     |PD     |MD     |PP     |MP       |regen |absorb 
+Silver     (1 ): 0     |50    |450   |570  |0    |0    |30     |0            
+Jelllice   (2 ): 0     |320   |0     |0    |0    |0    |30     |0            
+Movingshin (3 ): 290   |0     |0     |0    |40   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어3(Bird), 2nd place:플레이어1(Movingshin),3rd place:플레이어2(Jelllice),
+플레이어1(Movingshin)-----------------------------------------------
+kill/death/assist:8/8/5 
+Damage dealt: 5385 
+Damage received :7115 
+Heal amount:1332  
+money earned:1850 gold 
+money spent:1090 gold
+money lost:120 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:2/14/4 
+Damage dealt: 2780 
+Damage received :8080 
+Heal amount:0  
+money earned:1180 gold 
+money spent:640 gold
+money lost:268 gold
+플레이어3(Bird)-----------------------------------------------
+kill/death/assist:6/7/7 
+Damage dealt: 7075 
+Damage received :4673 
+Heal amount:50  
+money earned:3401 gold 
+money spent:2380 gold
+money lost:207 gold
+name|      turn|AD     |AP    |PD    |MD   |PP   |MP   |regen  |absorb 
+Movingshin (1 ): 280   |0     |0     |40   |60   |0    |20     |0            
+Jelllice   (2 ): 0     |240   |0     |0    |0    |0    |0      |0            
+Bird       (3 ): 110   |790   |0     |0    |20   |0    |0      |0            
+
+1st place: 플레이어2(Jelllice), 2nd place:플레이어3(Movingshin),3rd place:플레이어1(Blkx),
+플레이어1(Blkx)-----------------------------------------------
+kill/death/assist:5/12/5 
+Damage dealt: 4205 
+Damage received :9542 
+Heal amount:2165  
+money earned:2600 gold 
+money spent:2480 gold
+money lost:118 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:6/12/3 
+Damage dealt: 7780 
+Damage received :9236 
+Heal amount:270  
+money earned:1880 gold 
+money spent:1560 gold
+money lost:148 gold
+플레이어3(Movingshin)-----------------------------------------------
+kill/death/assist:17/8/14 
+Damage dealt: 14660 
+Damage received :7818 
+Heal amount:1634  
+money earned:3050 gold 
+money spent:2030 gold
+money lost:523 gold
+name|      turn|AD     |AP    |PD    |MD   |PP   |MP   |regen  |absorb  
+Blkx       (1 ): 0     |650   |30    |0    |0    |0    |80     |0            
+Jelllice   (2 ): 0     |760   |0     |0    |0    |0    |0      |0            
+Movingshin (3 ): 510   |50    |50    |330  |80   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어2(Movingshin), 2nd place:플레이어1(Jelllice),3rd place:플레이어3(Blkx),
+플레이어1(Jelllice)-----------------------------------------------
+kill/death/assist:5/12/5 
+Damage dealt: 14080 
+Damage received :9015 
+Heal amount:270  
+money earned:2801 gold 
+money spent:2440 gold
+money lost:149 gold
+플레이어2(Movingshin)-----------------------------------------------
+kill/death/assist:14/7/1 
+Damage dealt: 11070 
+Damage received :13638 
+Heal amount:3465  
+money earned:3821 gold 
+money spent:3520 gold
+money lost:89 gold
+플레이어3(Blkx)-----------------------------------------------
+kill/death/assist:2/13/11 
+Damage dealt: 3890 
+Damage received :12810 
+Heal amount:370  
+money earned:1540 gold 
+money spent:1090 gold
+money lost:179 gold
+name|      turn|AD     |AP    |PD    |MD   |PP   |MP   |regen  |absorb  
+Jelllice   (1 ): 0     |980   |0     |0    |0    |0    |0      |0            
+Movingshin (2 ): 500   |240   |50    |270  |100  |0    |30     |0            
+Blkx       (3 ): 0     |350   |110   |110  |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어1(Jean), 2nd place:Computer2(Silver bot),3rd place:Computer3(Yangi_bot),
+플레이어1(Jean)-----------------------------------------------
+kill/death/assist:2/0/2 
+Damage dealt: 1900 
+Damage received :510 
+Heal amount:1800  
+money earned:1940 gold 
+money spent:1810 gold
+money lost:100 gold
+Computer2(Silver bot)-----------------------------------------------
+kill/death/assist:2/4/0 
+Damage dealt: 585 
+Damage received :2000 
+Heal amount:604  
+money earned:870 gold 
+money spent:760 gold
+money lost:89 gold
+Computer3(Yangi_bot)-----------------------------------------------
+kill/death/assist:1/2/3 
+Damage dealt: 840 
+Damage received :1221 
+Heal amount:140  
+money earned:1500 gold 
+money spent:330 gold
+money lost:363 gold
+name|      turn|AD     |AP    |AR    |MR   |arP  |MP   |regen  |absorb  
+Jean       (1 ): 300   |0     |30    |0    |60   |0    |60     |0            
+Silver bot (2 ): 0     |240   |420   |420  |0    |0    |60     |0            
+Yangi_bot  (3 ): 170   |0     |0     |0    |20   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어1(Bird), 2nd place:Computer2(Bird_Bot)
+플레이어1(Bird)-----------------------------------------------
+kill/death/assist:0/0/0 
+Damage dealt: 460 
+Damage received :629 
+Heal amount:140  
+money earned:1450 gold 
+money spent:640 gold
+money lost:179 gold
+Computer2(Bird_Bot)-----------------------------------------------
+kill/death/assist:0/2/0 
+Damage dealt: 515 
+Damage received :677 
+Heal amount:20  
+money earned:1262 gold 
+money spent:1090 gold
+money lost:178 gold
+name|      turn|AD     |AP    |AR    |MR   |arP  |MP   |regen  |absorb  
+Bird       (1 ): 0     |330   |0     |0    |0    |0    |0      |0            
+Bird_Bot   (2 ): 120   |330   |0     |0    |20   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1st place: 플레이어2(Jelllice), 2nd place:플레이어1(Yangi),3rd place:플레이어3(Blkx),
+플레이어1(Yangi)-----------------------------------------------
+kill/death/assist:9/10/2 
+Damage dealt: 5752 
+Damage received :8032 
+Heal amount:2875  
+money earned:2010 gold 
+money spent:1370 gold
+money lost:470 gold
+플레이어2(Jelllice)-----------------------------------------------
+kill/death/assist:8/7/2 
+Damage dealt: 7015 
+Damage received :7890 
+Heal amount:1160  
+money earned:3429 gold 
+money spent:3022 gold
+money lost:59 gold
+플레이어3(Blkx)-----------------------------------------------
+kill/death/assist:2/10/8 
+Damage dealt: 5665 
+Damage received :7025 
+Heal amount:160  
+money earned:3361 gold 
+money spent:3000 gold
+money lost:207 gold
+name|      turn|AD     |AP    |AR    |MR   |arP  |MP   |regen  |absorb  
+Yangi      (1 ): 340   |0     |0     |0    |60   |0    |30     |10           
+Jelllice   (2 ): 0     |780   |50    |270  |0    |0    |30     |0            
+Blkx       (3 ): 0     |1340  |0     |0    |0    |0    |0      |0            
+-----------------------------------------------------------------------------
+1등: 플레이어3(고래), 2등:플레이어2(양이),3등:플레이어1(버드),
+플레이어1(버드)-----------------------------------------------
+킬/데스/어시스트:4/6/3 
+준 피해: 3810 
+받은 피해 :4060 
+회복량:50  
+번 돈:1991 gold 
+소모한 돈:1240 gold
+빼앗긴 돈:199 gold
+플레이어2(양이)-----------------------------------------------
+킬/데스/어시스트:9/9/2 
+준 피해: 7485 
+받은 피해 :6770 
+회복량:355  
+번 돈:1530 gold 
+소모한 돈:570 gold
+빼앗긴 돈:350 gold
+플레이어3(고래)-----------------------------------------------
+킬/데스/어시스트:2/11/8 
+준 피해: 1420 
+받은 피해 :6594 
+회복량:140  
+번 돈:1681 gold 
+소모한 돈:920 gold
+빼앗긴 돈:268 gold
+버드         (1 ): 0     |480   |0     |0    |0    |0    |0      |0            
+양이         (2 ): 220   |0     |0     |0    |20   |0    |0      |0            
+고래         (3 ): 0     |400   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+----------------------------------------------------- ------------------------
+1등: 플레이어2(버드), 2등:플레이어1(버드),3등:플레이어3(버드),
+플레이어1(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 0 
+받은 피해 :0 
+회복량:50  
+번 돈:0 gold 
+소모한 돈:300 gold
+빼앗긴 돈:0 gold
+플레이어2(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 0 
+받은 피해 :0 
+회복량:0  
+번 돈:0 gold 
+소모한 돈:0 gold
+빼앗긴 돈:0 gold
+플레이어3(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 0 
+받은 피해 :0 
+회복량:0  
+번 돈:0 gold 
+소모한 돈:0 gold
+빼앗긴 돈:0 gold
+버드         (1 ): 0     |0     |0     |0    |20   |0    |0      |0            
+버드         (2 ): 0     |0     |0     |0    |0    |0    |0      |0            
+버드         (3 ): 0     |0     |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 플레이어1(버드), 2등:플레이어2(버드),3등:플레이어3(버드),
+플레이어1(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 0 
+받은 피해 :0 
+회복량:0  
+번 돈:0 gold 
+소모한 돈:1620 gold
+빼앗긴 돈:0 gold
+플레이어2(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 0 
+받은 피해 :0 
+회복량:0  
+번 돈:0 gold 
+소모한 돈:0 gold
+빼앗긴 돈:0 gold
+플레이어3(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 0 
+받은 피해 :0 
+회복량:0  
+번 돈:0 gold 
+소모한 돈:0 gold
+빼앗긴 돈:0 gold
+----------------------------------------------------- ------------------------
+1등: 플레이어2(실버), 2등:플레이어1(블크스),3등:플레이어3(젤리스),
+플레이어1(블크스)-----------------------------------------------
+킬/데스/어시스트:0/4/0 
+준 피해: 1600 
+받은 피해 :2910 
+회복량:170  
+번 돈:660 gold 
+소모한 돈:1280 gold
+빼앗긴 돈:30 gold
+플레이어2(실버)-----------------------------------------------
+킬/데스/어시스트:2/1/0 
+준 피해: 1490 
+받은 피해 :2761 
+회복량:1194  
+번 돈:970 gold 
+소모한 돈:1350 gold
+빼앗긴 돈:59 gold
+플레이어3(젤리스)-----------------------------------------------
+킬/데스/어시스트:0/3/0 
+준 피해: 2070 
+받은 피해 :1653 
+회복량:1290  
+번 돈:940 gold 
+소모한 돈:1360 gold
+빼앗긴 돈:2933 gold
+블크스        (1 ): 0     |480   |0     |0    |0    |0    |0      |0            
+실버         (2 ): 0     |0     |350   |390  |0    |0    |30     |0            
+젤리스        (3 ): 0     |360   |0     |0    |0    |0    |30     |0            
+----------------------------------------------------- ------------------------
+1등: 플레이어2(고래), 2등:플레이어1(버드)
+플레이어1(버드)-----------------------------------------------
+킬/데스/어시스트:1/4/0 
+준 피해: 1635 
+받은 피해 :2841 
+회복량:100  
+번 돈:1260 gold 
+소모한 돈:600 gold
+빼앗긴 돈:2844 gold
+플레이어2(고래)-----------------------------------------------
+킬/데스/어시스트:3/3/2 
+준 피해: 1215 
+받은 피해 :1540 
+회복량:130  
+번 돈:1730 gold 
+소모한 돈:960 gold
+빼앗긴 돈:3174 gold
+버드         (1 ): 190   |0     |0     |0    |40   |0    |0      |0            
+고래         (2 ): 0     |410   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 플레이어1(버드), 2등:플레이어2(블크스),3등:플레이어2(블크스),
+플레이어1(버드)-----------------------------------------------
+킬/데스/어시스트:0/1/0 
+준 피해: 555 
+받은 피해 :1941 
+회복량:1420  
+번 돈:1200 gold 
+소모한 돈:950 gold
+빼앗긴 돈:30 gold
+플레이어2(블크스)-----------------------------------------------
+킬/데스/어시스트:0/1/0 
+준 피해: 1260 
+받은 피해 :1015 
+회복량:240  
+번 돈:770 gold 
+소모한 돈:960 gold
+빼앗긴 돈:267 gold
+버드         (1 ): 110   |0     |0     |0    |20   |0    |30     |30           
+블크스        (2 ): 0     |360   |0     |0    |0    |0    |0      |0            
+-----------------------------------------------------------------------------
+1등: 플레이어1(버드), 2등:플레이어2(버드),3등:플레이어2(버드),
+플레이어1(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 10 
+받은 피해 :0 
+회복량:0  
+번 돈:150 gold 
+소모한 돈:0 gold
+빼앗긴 돈:0 gold
+플레이어2(버드)-----------------------------------------------
+킬/데스/어시스트:0/0/0 
+준 피해: 10 
+받은 피해 :0 
+회복량:50  
+번 돈:120 gold 
+소모한 돈:0 gold
+빼앗긴 돈:0 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+버드         (1 ): 0     |0     |0     |0    |0    |0    |0      |0            
+버드         (2 ): 0     |0     |0     |0    |0    |0    |0      |0            
+-----------------------------------------------------------------------------
+1등: 성주(무빙신), 2등:성수  (젤리스),3등:예준(블크스),
+성수  (젤리스)-----------------------------------------------
+킬/데스/어시스트:1/1/2 
+준 피해: 1190 
+받은 피해 :1580 
+회복량:870  
+번 돈:1290 gold 
+소모한 돈:800 gold
+빼앗긴 돈:414 gold
+예준(블크스)-----------------------------------------------
+킬/데스/어시스트:1/3/1 
+준 피해: 1130 
+받은 피해 :1665 
+회복량:310  
+번 돈:760 gold 
+소모한 돈:400 gold
+빼앗긴 돈:298 gold
+성주(무빙신)-----------------------------------------------
+킬/데스/어시스트:2/2/1 
+준 피해: 1015 
+받은 피해 :1481 
+회복량:920  
+번 돈:1090 gold 
+소모한 돈:790 gold
+빼앗긴 돈:179 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+젤리스        (1 ): 0     |330   |0     |0    |0    |0    |30     |0            
+블크스        (2 ): 0     |260   |0     |0    |0    |0    |10     |0            
+무빙신        (3 ): 180   |0     |0     |0    |20   |0    |60     |30           
+----------------------------------------------------- ------------------------
+1등: 성수  (양이), 2등:봇3(버드 봇),3등:예준(미친박사),
+성수  (양이)-----------------------------------------------
+킬/데스/어시스트:2/1/0 
+준 피해: 2521 
+받은 피해 :1675 
+회복량:992  
+번 돈:990 gold 
+소모한 돈:630 gold
+빼앗긴 돈:268 gold
+예준(미친박사)-----------------------------------------------
+킬/데스/어시스트:0/0/1 
+준 피해: 248 
+받은 피해 :3000 
+회복량:3598  
+번 돈:950 gold 
+소모한 돈:780 gold
+빼앗긴 돈:179 gold
+봇3(버드 봇)-----------------------------------------------
+킬/데스/어시스트:1/3/1 
+준 피해: 2995 
+받은 피해 :1515 
+회복량:50  
+번 돈:1471 gold 
+소모한 돈:1240 gold
+빼앗긴 돈:148 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이         (1 ): 190   |0     |0     |0    |40   |0    |0      |0            
+미친박사       (2 ): 0     |0     |160   |0    |0    |0    |40     |0            
+버드 봇       (3 ): 250   |290   |0     |0    |40   |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 예준(크리드), 2등:봇3(양이 봇),3등:성수  (젤리스),
+성수  (젤리스)-----------------------------------------------
+킬/데스/어시스트:7/20/7 
+준 피해: 3880 
+받은 피해 :11245 
+회복량:80  
+번 돈:3203 gold 
+소모한 돈:680 gold
+빼앗긴 돈:197 gold
+예준(크리드)-----------------------------------------------
+킬/데스/어시스트:18/13/6 
+준 피해: 9585 
+받은 피해 :11349 
+회복량:2052  
+번 돈:2540 gold 
+소모한 돈:1140 gold
+빼앗긴 돈:410 gold
+봇3(양이 봇)-----------------------------------------------
+킬/데스/어시스트:19/13/25 
+준 피해: 12004 
+받은 피해 :8270 
+회복량:640  
+번 돈:4481 gold 
+소모한 돈:820 gold
+빼앗긴 돈:598 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+젤리스        (1 ): 30    |370   |0     |0    |0    |0    |0      |0            
+크리드        (2 ): 260   |0     |0     |0    |0    |0    |40     |10           
+양이 봇       (3 ): 270   |0     |0     |0    |40   |0    |10     |0            
+----------------------------------------------------- ------------------------
+1등: 예준(고래), 2등:봇3(실버 봇),3등:성수  (미친박사),
+성수  (미친박사)-----------------------------------------------
+킬/데스/어시스트:0/2/0 
+준 피해: 355 
+받은 피해 :3924 
+회복량:1905  
+번 돈:740 gold 
+소모한 돈:300 gold
+빼앗긴 돈:410 gold
+예준(고래)-----------------------------------------------
+킬/데스/어시스트:1/2/0 
+준 피해: 862 
+받은 피해 :1397 
+회복량:846  
+번 돈:1800 gold 
+소모한 돈:890 gold
+빼앗긴 돈:800 gold
+봇3(실버 봇)-----------------------------------------------
+킬/데스/어시스트:3/2/0 
+준 피해: 3345 
+받은 피해 :1951 
+회복량:860  
+번 돈:850 gold 
+소모한 돈:440 gold
+빼앗긴 돈:378 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+미친박사       (1 ): 0     |0     |0     |40   |0    |0    |20     |0            
+고래         (2 ): 0     |60    |80    |140  |0    |0    |35     |0            
+실버 봇       (3 ): 0     |190   |320   |320  |0    |0    |30     |0            
+----------------------------------------------------- ------------------------
+1등: 봇2(미친박사 봇), 2등:봇1(크리드 봇),3등:봇1(크리드 봇),
+봇1(크리드 봇)-----------------------------------------------
+킬/데스/어시스트:10/3/0 
+준 피해: 5640 
+받은 피해 :2226 
+회복량:820  
+번 돈:3423 gold 
+소모한 돈:3270 gold
+빼앗긴 돈:146 gold
+봇2(미친박사 봇)-----------------------------------------------
+킬/데스/어시스트:0/10/3 
+준 피해: 388 
+받은 피해 :7546 
+회복량:1043  
+번 돈:1560 gold 
+소모한 돈:680 gold
+빼앗긴 돈:744 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+크리드 봇      (1 ): 900   |0     |0     |0    |180  |0    |30     |0            
+미친박사 봇     (2 ): 60    |190   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 성수(버드), 2등:예준  (진),3등:성주(미친박사),
+예준  (진)-----------------------------------------------
+킬/데스/어시스트:8/2/0 
+준 피해: 4500 
+받은 피해 :821 
+회복량:120  
+번 돈:1820 gold 
+소모한 돈:1100 gold
+빼앗긴 돈:624 gold
+성주(미친박사)-----------------------------------------------
+킬/데스/어시스트:0/2/3 
+준 피해: 142 
+받은 피해 :3943 
+회복량:1977  
+번 돈:720 gold 
+소모한 돈:350 gold
+빼앗긴 돈:297 gold
+성수(버드)-----------------------------------------------
+킬/데스/어시스트:2/9/4 
+준 피해: 530 
+받은 피해 :3604 
+회복량:90  
+번 돈:1940 gold 
+소모한 돈:360 gold
+빼앗긴 돈:59 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+진          (1 ): 390   |0     |0     |0    |20   |0    |10     |30           
+미친박사       (2 ): 0     |0     |50    |70   |0    |0    |0      |0            
+버드         (3 ): 40    |120   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 예준(티모), 2등:성수(양이),3등:성주(실버),
+성수(양이)-----------------------------------------------
+킬/데스/어시스트:4/5/0 
+준 피해: 1225 
+받은 피해 :4253 
+회복량:998  
+번 돈:1780 gold 
+소모한 돈:1780 gold
+빼앗긴 돈:0 gold
+성주(실버)-----------------------------------------------
+킬/데스/어시스트:0/1/0 
+준 피해: 1115 
+받은 피해 :1535 
+회복량:230  
+번 돈:1281 gold 
+소모한 돈:1190 gold
+빼앗긴 돈:89 gold
+예준(티모)-----------------------------------------------
+킬/데스/어시스트:0/2/2 
+준 피해: 2760 
+받은 피해 :1060 
+회복량:0  
+번 돈:1170 gold 
+소모한 돈:1080 gold
+빼앗긴 돈:60 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이         (1 ): 200   |0     |50    |70   |40   |0    |60     |0            
+실버         (2 ): 0     |100   |190   |210  |0    |0    |30     |0            
+티모         (3 ): 0     |520   |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 성수(무빙신), 2등:예준(고래),3등:성주(미친박사),
+성수(무빙신)-----------------------------------------------
+킬/데스/어시스트:3/3/1 
+준 피해: 4075 
+받은 피해 :1641 
+회복량:851  
+번 돈:1680 gold 
+소모한 돈:1360 gold
+빼앗긴 돈:110 gold
+성주(미친박사)-----------------------------------------------
+킬/데스/어시스트:0/4/3 
+준 피해: 325 
+받은 피해 :5282 
+회복량:2977  
+번 돈:900 gold 
+소모한 돈:550 gold
+빼앗긴 돈:198 gold
+예준(고래)-----------------------------------------------
+킬/데스/어시스트:3/5/1 
+준 피해: 1534 
+받은 피해 :2063 
+회복량:394  
+번 돈:940 gold 
+소모한 돈:260 gold
+빼앗긴 돈:89 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+무빙신        (1 ): 350   |0     |50    |70   |40   |0    |0      |40           
+미친박사       (2 ): 0     |0     |30    |10   |0    |0    |35     |0            
+고래         (3 ): 0     |0     |40    |50   |0    |0    |10     |0            
+----------------------------------------------------- ------------------------
+1등: 예준(무빙신), 2등:성수(크리드),3등:성주(실버),
+성주(실버)-----------------------------------------------
+킬/데스/어시스트:1/1/1 
+준 피해: 655 
+받은 피해 :566 
+회복량:80  
+번 돈:2092 gold 
+소모한 돈:1890 gold
+빼앗긴 돈:178 gold
+예준(무빙신)-----------------------------------------------
+킬/데스/어시스트:1/2/1 
+준 피해: 960 
+받은 피해 :2085 
+회복량:379  
+번 돈:1010 gold 
+소모한 돈:880 gold
+빼앗긴 돈:59 gold
+성수(크리드)-----------------------------------------------
+킬/데스/어시스트:2/3/2 
+준 피해: 1310 
+받은 피해 :1834 
+회복량:170  
+번 돈:740 gold 
+소모한 돈:650 gold
+빼앗긴 돈:80 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+실버         (1 ): 0     |520   |200   |120  |0    |0    |20     |0            
+무빙신        (2 ): 160   |50    |0     |0    |20   |0    |5      |30           
+크리드        (3 ): 220   |0     |0     |0    |20   |0    |10     |10           
+----------------------------------------------------- ------------------------
+1등: 성주(실버), 2등:성수(양이),3등:예준(블크스),
+성수(양이)-----------------------------------------------
+킬/데스/어시스트:7/3/0 
+준 피해: 6096 
+받은 피해 :6378 
+회복량:3820  
+번 돈:1640 gold 
+소모한 돈:1580 gold
+빼앗긴 돈:59 gold
+예준(블크스)-----------------------------------------------
+킬/데스/어시스트:1/5/0 
+준 피해: 1260 
+받은 피해 :3589 
+회복량:509  
+번 돈:1121 gold 
+소모한 돈:880 gold
+빼앗긴 돈:149 gold
+성주(실버)-----------------------------------------------
+킬/데스/어시스트:3/7/7 
+준 피해: 5620 
+받은 피해 :5921 
+회복량:110  
+번 돈:1030 gold 
+소모한 돈:670 gold
+빼앗긴 돈:60 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이         (1 ): 330   |0     |50    |170  |40   |0    |0      |30           
+블크스        (2 ): 0     |330   |0     |0    |0    |0    |15     |0            
+실버         (3 ): 0     |460   |110   |60   |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 성수(무빙신), 2등:예준(진),3등:성주(크리드),
+성주(크리드)-----------------------------------------------
+킬/데스/어시스트:6/11/2 
+준 피해: 6530 
+받은 피해 :13609 
+회복량:340  
+번 돈:2914 gold 
+소모한 돈:2550 gold
+빼앗긴 돈:148 gold
+예준(진)-----------------------------------------------
+킬/데스/어시스트:16/9/0 
+준 피해: 13650 
+받은 피해 :7305 
+회복량:550  
+번 돈:4170 gold 
+소모한 돈:3310 gold
+빼앗긴 돈:296 gold
+성수(무빙신)-----------------------------------------------
+킬/데스/어시스트:5/9/20 
+준 피해: 4780 
+받은 피해 :9199 
+회복량:1019  
+번 돈:2910 gold 
+소모한 돈:1910 gold
+빼앗긴 돈:208 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+크리드        (1 ): 590   |0     |140   |0    |100  |0    |0      |60           
+진          (2 ): 990   |0     |0     |0    |200  |0    |10     |0            
+무빙신        (3 ): 370   |0     |240   |70   |40   |0    |0      |80           
+----------------------------------------------------- ------------------------
+1등: #2(티모), 2등:#3(젤리스),3등:#1(고래),
+#1(고래)-----------------------------------------------
+킬/데스/어시스트:2/5/4 
+준 피해: 1892 
+받은 피해 :4069 
+회복량:260  
+번 돈:920 gold 
+소모한 돈:910 gold
+빼앗긴 돈:0 gold
+#2(티모)-----------------------------------------------
+킬/데스/어시스트:4/4/3 
+준 피해: 2770 
+받은 피해 :3037 
+회복량:340  
+번 돈:1450 gold 
+소모한 돈:1200 gold
+빼앗긴 돈:60 gold
+#3(젤리스)-----------------------------------------------
+킬/데스/어시스트:6/4/1 
+준 피해: 4160 
+받은 피해 :3372 
+회복량:220  
+번 돈:1210 gold 
+소모한 돈:680 gold
+빼앗긴 돈:369 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+고래         (1 ): 260   |0     |0     |0    |40   |0    |10     |0            
+티모         (2 ): 0     |470   |0     |0    |0    |0    |20     |0            
+젤리스        (3 ): 0     |360   |0     |0    |0    |0    |15     |0            
+----------------------------------------------------- ------------------------
+1등: 봇1(양이 봇), 2등:봇3(크리드 봇),3등:봇2(고래 봇),
+봇1(양이 봇)-----------------------------------------------
+킬/데스/어시스트:10/1/0 
+준 피해: 3364 
+받은 피해 :2750 
+회복량:1883  
+번 돈:1740 gold 
+소모한 돈:840 gold
+빼앗긴 돈:207 gold
+봇2(고래 봇)-----------------------------------------------
+킬/데스/어시스트:2/6/2 
+준 피해: 1976 
+받은 피해 :2944 
+회복량:20  
+번 돈:2451 gold 
+소모한 돈:240 gold
+빼앗긴 돈:1681 gold
+봇3(크리드 봇)-----------------------------------------------
+킬/데스/어시스트:4/8/0 
+준 피해: 2805 
+받은 피해 :4678 
+회복량:20  
+번 돈:2210 gold 
+소모한 돈:160 gold
+빼앗긴 돈:177 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이 봇       (1 ): 230   |0     |0     |0    |40   |0    |20     |0            
+고래 봇       (2 ): 0     |120   |0     |0    |0    |0    |0      |0            
+크리드 봇      (3 ): 70    |0     |0     |0    |0    |0    |0      |0            
+----------------------------------------------------- ------------------------
+1등: 봇2(고래 봇), 2등:봇1(버드 봇),3등:봇3(실버 봇),
+봇1(버드 봇)-----------------------------------------------
+킬/데스/어시스트:3/1/2 
+준 피해: 540 
+받은 피해 :830 
+회복량:90  
+번 돈:1450 gold 
+소모한 돈:660 gold
+빼앗긴 돈:632 gold
+봇2(고래 봇)-----------------------------------------------
+킬/데스/어시스트:5/3/1 
+준 피해: 2640 
+받은 피해 :2100 
+회복량:300  
+번 돈:1992 gold 
+소모한 돈:1320 gold
+빼앗긴 돈:518 gold
+봇3(실버 봇)-----------------------------------------------
+킬/데스/어시스트:1/5/3 
+준 피해: 945 
+받은 피해 :2594 
+회복량:320  
+번 돈:1720 gold 
+소모한 돈:1200 gold
+빼앗긴 돈:463 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+버드 봇       (1 ): 90    |230   |0     |0    |20   |0    |0      |0            
+고래 봇       (2 ): 0     |190   |0     |0    |0    |0    |70     |0            
+실버 봇       (3 ): 0     |240   |220   |220  |0    |0    |90     |0            
+----------------------------------------------------- ------------------------
+1등: 봇2(크리드 봇), 2등:봇3(실버 봇),3등:봇1(양이 봇),
+봇1(양이 봇)-----------------------------------------------
+킬/데스/어시스트:2/2/2 
+준 피해: 1442 
+받은 피해 :2711 
+회복량:1922  
+번 돈:1130 gold 
+소모한 돈:1110 gold
+빼앗긴 돈:179 gold
+봇2(크리드 봇)-----------------------------------------------
+킬/데스/어시스트:2/5/1 
+준 피해: 3825 
+받은 피해 :3347 
+회복량:550  
+번 돈:1720 gold 
+소모한 돈:1540 gold
+빼앗긴 돈:207 gold
+봇3(실버 봇)-----------------------------------------------
+킬/데스/어시스트:3/3/0 
+준 피해: 3110 
+받은 피해 :2871 
+회복량:1020  
+번 돈:2140 gold 
+소모한 돈:2360 gold
+빼앗긴 돈:30 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이 봇       (1 ): 250   |0     |0     |0    |40   |0    |30     |0            
+크리드 봇      (2 ): 360   |0     |0     |0    |60   |0    |50     |0            
+실버 봇       (3 ): 0     |580   |220   |220  |0    |0    |90     |0            
+----------------------------------------------------- ------------------------
+1등: 봇3(실버 봇), 2등:봇1(버드 봇),3등:봇2(고래 봇),
+봇1(버드 봇)-----------------------------------------------
+킬/데스/어시스트:5/4/5 
+준 피해: 2760 
+받은 피해 :4153 
+회복량:640  
+번 돈:3160 gold 
+소모한 돈:3000 gold
+빼앗긴 돈:149 gold
+봇2(고래 봇)-----------------------------------------------
+킬/데스/어시스트:4/5/2 
+준 피해: 3969 
+받은 피해 :4041 
+회복량:2085  
+번 돈:1680 gold 
+소모한 돈:1640 gold
+빼앗긴 돈:388 gold
+봇3(실버 봇)-----------------------------------------------
+킬/데스/어시스트:6/2/2 
+준 피해: 2520 
+받은 피해 :2261 
+회복량:4693  
+번 돈:2840 gold 
+소모한 돈:2760 gold
+빼앗긴 돈:239 gold
+봇4(미친박사 봇)-----------------------------------------------
+킬/데스/어시스트:2/8/2 
+준 피해: 440 
+받은 피해 :6608 
+회복량:2415  
+번 돈:2799 gold 
+소모한 돈:550 gold
+빼앗긴 돈:446 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+버드 봇       (1 ): 600   |380   |0     |0    |120  |0    |30     |0            
+고래 봇       (2 ): 0     |210   |0     |0    |0    |0    |90     |0            
+실버 봇       (3 ): 0     |620   |320   |320  |0    |0    |115    |0            
+미친박사 봇     (4 ): 60    |240   |0     |0    |0    |0    |0      |0            
+-----------------------------------------------------------------------------
+1등: 봇3(고래 봇), 2등:봇2(크리드 봇),3등:봇1(양이 봇),
+봇1(양이 봇)-----------------------------------------------
+킬/데스/어시스트:30/20/11 
+준 피해: 21183 
+받은 피해 :18420 
+회복량:1790  
+번 돈:4780 gold 
+소모한 돈:2580 gold
+빼앗긴 돈:409 gold
+봇2(크리드 봇)-----------------------------------------------
+킬/데스/어시스트:40/12/4 
+준 피해: 36315 
+받은 피해 :18014 
+회복량:4300  
+번 돈:4295 gold 
+소모한 돈:2410 gold
+빼앗긴 돈:239 gold
+봇3(고래 봇)-----------------------------------------------
+킬/데스/어시스트:5/21/18 
+준 피해: 5106 
+받은 피해 :19672 
+회복량:3580  
+번 돈:4352 gold 
+소모한 돈:760 gold
+빼앗긴 돈:1193 gold
+봇4(버드 봇)-----------------------------------------------
+킬/데스/어시스트:17/29/14 
+준 피해: 20500 
+받은 피해 :22163 
+회복량:490  
+번 돈:10319 gold 
+소모한 돈:9340 gold
+빼앗긴 돈:377 gold
+이름        턴    |공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이 봇       (1 ): 720   |0     |0     |0    |140  |0    |30     |0            
+크리드 봇      (2 ): 710  |0     |0     |0    |100  |0    |80     |0            
+고래 봇       (3 ): 0     |210   |0     |0    |0    |0    |50     |0            
+버드 봇       (4 ): 2290  |410   |0     |0    |540  |0    |30     |0            
+----------------------------------------------------- ------------------------
+1등: 봇3(크리드 봇), 2등:예준(무빙신),3등:성수(젤리스),
+성수(젤리스)-----------------------------------------------
+킬/데스/어시스트:2/12/7 
+준 피해: 3050 
+받은 피해 :10917 
+회복량:320  
+번 돈:1500 gold 
+소모한 돈:1260 gold
+빼앗긴 돈:207 gold
+예준(무빙신)-----------------------------------------------
+킬/데스/어시스트:10/12/7 
+준 피해: 8570 
+받은 피해 :14330 
+회복량:832  
+번 돈:2840 gold 
+소모한 돈:2360 gold
+빼앗긴 돈:119 gold
+봇3(크리드 봇)-----------------------------------------------
+킬/데스/어시스트:25/10/0 
+준 피해: 26290 
+받은 피해 :10507 
+회복량:3160  
+번 돈:5480 gold 
+소모한 돈:5490 gold
+빼앗긴 돈:119 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+젤리스        (1 ): 0     |420   |0     |0    |0    |0    |20     |0            
+무빙신        (2 ): 320   |0     |260   |70   |40   |0    |0      |0            
+크리드 봇      (3 ): 1500  |0     |0     |0    |300  |0    |80     |0            
+----------------------------------------------------- ------------------------
+1등: 성수(양이), 2등:봇3(고래 봇),3등:예준(티모),
+성수(양이)-----------------------------------------------
+킬/데스/어시스트:2/2/0 
+준 피해: 960 
+받은 피해 :2276 
+회복량:2104  
+번 돈:1751 gold 
+소모한 돈:1625 gold
+빼앗긴 돈:119 gold
+예준(티모)-----------------------------------------------
+킬/데스/어시스트:1/3/0 
+준 피해: 2390 
+받은 피해 :2026 
+회복량:60  
+번 돈:1510 gold 
+소모한 돈:1360 gold
+빼앗긴 돈:149 gold
+봇3(고래 봇)-----------------------------------------------
+킬/데스/어시스트:2/3/0 
+준 피해: 2835 
+받은 피해 :3967 
+회복량:2508  
+번 돈:1300 gold 
+소모한 돈:1560 gold
+빼앗긴 돈:189 gold
+이름        턴|공격   |주문   |방어   |마저   |방관   |마관   |재생 |생명력흡수 
+양이         (1 ): 290   |0     |0     |0    |40   |0    |30     |10           
+티모         (2 ): 0     |440   |50    |70   |0    |0    |0      |0            
+고래 봇       (3 ): 0     |140   |0     |0    |0    |0    |110    |0            
